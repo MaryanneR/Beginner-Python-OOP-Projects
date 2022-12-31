@@ -1,5 +1,5 @@
 # Python OOP Projects
 
-Simple beginning Python OOP projects. Command line interface type projects.
+Python OOP projects of varying levels of complexity.
 
-Completed as coursework for Python OOP programming course by Ardit Sulce hosted on Udemy.
+Some projects listed here were completed as coursework for the Python OOP programming course by Ardit Sulce hosted on Udemy.
